@@ -1,5 +1,4 @@
 ##this is second file for GIT Pratice
 #we will pratice merge option
 This is a first commit
-
 This is a second commit
